@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'ClassicalGaramondBT';
+    src: url('fonts/ClassicalGaramondBT-Roman.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: none
+}
+
+@font-face {
+    font-family: 'ScalaSansOT';
+    src: url('fonts/ScalaSansOT.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: none;
+}
